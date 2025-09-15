@@ -1,7 +1,7 @@
 # Hi there! 👋 I'm Yan Chervonyi
 
 <p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=565&lines=Computer+Science+Alumni;Full+Stack+Developer;Django+%26+React+Specialist;MERN+Stack;Machine+Learning;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=565&lines=Computer+Science+Alumni;Full+Stack+Developer;MERN+Stack;Machine+Learning;" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
