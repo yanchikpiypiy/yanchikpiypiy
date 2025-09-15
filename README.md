@@ -61,8 +61,4 @@ Containerized task scheduler with Celery workers for distributed background proc
 
 </div>
 
----
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yanchikpiypiy&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
-</div>
