@@ -20,7 +20,7 @@ Full-stack job application tracker with Django DRF backend, React dashboard, and
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
-Interactive platform for algorithm visualization (BFS, DFS, A*, Minimax) with ML-powered learning feedback.
+Interactive platform for algorithm visualization (BFS, DFS, A*, Minimax) with a custom chess engine built using NNUE neural network.
 
 ### ⏰ Smart Reminder System
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=flat-square&logo=celery&logoColor=ddf4a4) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
