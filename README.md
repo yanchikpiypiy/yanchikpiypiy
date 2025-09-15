@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Ernest
+# Hi there! 👋 I'm Yan
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Computer+Science+Student;AI+%26+Automation+Enthusiast;Full+Stack+Developer;Always+learning+new+things" alt="Typing SVG" />
