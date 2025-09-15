@@ -4,11 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=650&lines=Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Django+%26+React+Specialist" alt="Typing SVG" />
 </p>
 
-
 ## 🚀 About Me
 
-🎓 **Computer Science** student at University of Birmingham (First Class Honours)  
-🌍 **Birmingham, UK** | 💻 **Full-stack Developer** | 🧠 **ML Enthusiast**
+I am a **recent Computer Science graduate** from the University of Birmingham, achieving **First Class Honours**. I specialize in **full-stack development** and **machine learning**, with hands-on experience in **Django, React, FastAPI, and PyTorch**. I am passionate about **solving real-world problems with technology**, exploring new frameworks, and contributing to open-source projects.
+
 
 ## 🔥 Featured Projects
 
@@ -19,11 +18,13 @@ Full-stack job application tracker with Django DRF backend, React dashboard, and
 
 ### 🎓 Educational Algorithm Visualizer
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 Interactive platform for algorithm visualization (BFS, DFS, A*, Minimax) with ML-powered learning feedback.
 
 ### ⏰ Smart Reminder System
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Celery](https://img.shields.io/badge/celery-%23a9cc54.svg?style=flat-square&logo=celery&logoColor=ddf4a4)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 
 Containerized task scheduler with Celery workers for distributed background processing.
 
@@ -56,7 +57,7 @@ Containerized task scheduler with Celery workers for distributed background proc
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yanchervonyy@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yanchikpiypiy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yan-chervonyi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yan-chervonyy-861982375/)
 
 </div>
 
