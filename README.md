@@ -1,13 +1,12 @@
 # Hi there! 👋 I'm Yan Chervonyi
 
 <p align="right">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=565&lines=Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Enthusiast;Django+%26+React+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=565&lines=Computer+Science+Alumni;Full+Stack+Developer;Django+%26+React+Specialist;MERN+Stack;Machine+Learning;" alt="Typing SVG" />
 </p>
 
 ## 🚀 About Me
 
-I am a **recent Computer Science graduate** from the University of Birmingham, achieving **First Class Honours**. I specialize in **full-stack development** and **machine learning**, with hands-on experience in **Django, React, FastAPI, and PyTorch**. I am passionate about **solving real-world problems with technology**, exploring new frameworks, and contributing to open-source projects.
-
+I am a **recent Computer Science graduate** from the University of Birmingham, achieving **First Class Honours**. I specialize in **full-stack development**, including the **MERN stack**, and **machine learning**, with hands-on experience in **Django, React, FastAPI, PyTorch, Node.js, and MongoDB**. I am passionate about **solving real-world problems with technology**, exploring new frameworks, and contributing to open-source projects.
 
 ## 🔥 Featured Projects
 
